@@ -4,26 +4,15 @@
 **Last Updated:** March 20, 2024
 
 ## 1. Introduction
-SiteSnap ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our SiteSnap mobile application.
+SiteSnap ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our SiteSnap mobile application.
 
 ## 2. Information We Collect
-We collect the following types of information:
+We do not collect, store, or transmit any personal or sensitive information. All data, including photos and associated metadata, is processed and stored locally on your device.
 
-- **Photos and Images:** Photos taken through the app and their associated metadata  
-- **Device Information:** Camera and photo library access permissions  
-- **Usage Data:** How you interact with the app  
-- **Categories and Settings:** Your customized categories and app settings
-
-## 3. How We Use Your Information
-We use the collected information to:
-
-- Provide and maintain our Service  
-- Store your photos and associated metadata locally on your device  
-- Save your preferences and settings  
-- Improve and optimize our app
+## 3. No Data Collection
+SiteSnap does not collect any data from its users. We do not transmit or store personal information, usage data, or any other identifiable data on external servers. All app-related data remains on your device and under your control. This design ensures compliance with the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth), as no personal information is collected, used, or disclosed.
 
 ## 4. Data Storage and Security
-
 - All photos and data are stored locally on your device  
 - We do not upload or store your photos on external servers  
 - Your data remains under your control
@@ -36,12 +25,7 @@ We do not share your information with third parties. The app requires access to:
 - **Storage:** For saving app data locally
 
 ## 6. Your Rights Under Australian Privacy Principles
-Under the Privacy Act 1988 (Cth) and Australian Privacy Principles, you have the right to:
-
-- Access your personal information  
-- Correct inaccurate information  
-- Delete your data from the app  
-- Control app permissions through your device settings
+As SiteSnap does not collect or store any personal data, your rights under the Privacy Act 1988 (Cth) and Australian Privacy Principles are inherently respected and upheld. You retain full control of all data stored on your device.
 
 ## 7. Children's Privacy
 Our app is not intended for children under 13. We do not knowingly collect information from children under 13.
